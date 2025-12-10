@@ -30,7 +30,7 @@ The system is designed to minimize RAM usage while maximizing retrieval speed.
 
 ### The Pipeline
 1.  **ETL & Preprocessing:** Cleaning and processing a raw CSV dataset of 2.4M+ rows.
-2.  **Embedding Generation:** Using `intfloat/multilingual-e5-small` on Multi-GPU to convert book summaries into vector embeddings.
+2.  **Embedding Generation:** Using `paraphrase-multilingual-MiniLM-L12-v2` on Multi-GPU to convert book summaries into vector embeddings.
 3.  **Hybrid Storage Strategy:**
     * **Vectors (RAM/Disk):** Stored in **Qdrant**. Contains *only* the embeddings and the Book ID.
     * **Metadata (Disk/Edge):** Stored in **Turso (LibSQL)**. Contains Book ID, Title, Author, Year, Summary, and Rating.
