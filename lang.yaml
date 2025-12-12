@@ -1,0 +1,180 @@
+# lang.yaml
+# --- ITALIANO (it) ---
+it:
+  app_title: "📚 AI Book Finder"
+  language_label: "Lingua / Language"
+  results_label: "Risultati"
+  search_loading_message: "Ricerca in corso..."
+  
+  # Ricerca Trama (Tab 1)
+  plot_search_tab: "🔎 Ricerca Trama"
+  plot_search_placeholder: "Descrivi la trama che stai cercando..."
+  plot_search_button: "Cerca"
+  
+  # Cerca Titolo (Tab 2)
+  title_search_tab: "📖 Cerca Titolo"
+  title_search_placeholder: "Titolo..."
+  title_search_button: "Trova"
+  
+  # Dataset/Tabella
+  dataset_label: "Risultati:"
+  dataset_header_title: "Titolo"
+  dataset_header_author: "Autore"
+  dataset_header_year: "Anno"
+
+  # Errori e messaggi di fallback
+  error_no_query: "Inserisci del testo."
+  error_db_not_configured: "Errore: Database non configurato."
+  error_no_results: "Nessun risultato trovato."
+  translation_button_label: "Traduci in Italiano"
+  translation_not_available: "Traduzione non disponibile."
+
+# --- INGLESE (en) ---
+en:
+  app_title: "📚 AI Book Finder"
+  language_label: "Language / Lingua"
+  results_label: "Results"
+  search_loading_message: "Searching..."
+
+  # Plot Search (Tab 1)
+  plot_search_tab: "🔎 Search Plot"
+  plot_search_placeholder: "Describe the plot you are looking for..."
+  plot_search_button: "Search"
+  
+  # Title Search (Tab 2)
+  title_search_tab: "📖 Search Title"
+  title_search_placeholder: "Title..."
+  title_search_button: "Find"
+  
+  # Dataset/Table
+  dataset_label: "Results:"
+  dataset_header_title: "Title"
+  dataset_header_author: "Author"
+  dataset_header_year: "Year"
+
+  # Errors and fallback messages
+  error_no_query: "Please enter some text."
+  error_db_not_configured: "Error: Database not configured."
+  error_no_results: "No results found."
+  translation_button_label: "Translate to English"
+  translation_not_available: "Translation not available."
+
+# --- FRANCESE (fr) ---
+fr:
+  app_title: "📚 AI Book Finder"
+  language_label: "Langue / Language"
+  results_label: "Résultats"
+  search_loading_message: "Recherche en cours..."
+
+  # Plot Search (Tab 1)
+  plot_search_tab: "🔎 Recherche par intrigue"
+  plot_search_placeholder: "Décrivez l'intrigue que vous cherchez..."
+  plot_search_button: "Rechercher"
+  
+  # Title Search (Tab 2)
+  title_search_tab: "📖 Recherche par titre"
+  title_search_placeholder: "Titre..."
+  title_search_button: "Trouver"
+  
+  # Dataset/Table
+  dataset_label: "Résultats :"
+  dataset_header_title: "Titre"
+  dataset_header_author: "Auteur"
+  dataset_header_year: "Année"
+
+  # Errors and fallback messages
+  error_no_query: "Veuillez saisir du texte."
+  error_db_not_configured: "Erreur : Base de données non configurée."
+  error_no_results: "Aucun résultat trouvé."
+  translation_button_label: "Traduire en français"
+  translation_not_available: "Traduction non disponible."
+
+# --- SPAGNOLO (es) ---
+es:
+  app_title: "📚 AI Book Finder"
+  language_label: "Idioma / Language"
+  results_label: "Resultados"
+  search_loading_message: "Buscando..."
+
+  # Plot Search (Tab 1)
+  plot_search_tab: "🔎 Buscar por trama"
+  plot_search_placeholder: "Describe la trama que buscas..."
+  plot_search_button: "Buscar"
+  
+  # Title Search (Tab 2)
+  title_search_tab: "📖 Buscar por título"
+  title_search_placeholder: "Título..."
+  title_search_button: "Encontrar"
+  
+  # Dataset/Table
+  dataset_label: "Resultados:"
+  dataset_header_title: "Título"
+  dataset_header_author: "Autor"
+  dataset_header_year: "Año"
+
+  # Errors and fallback messages
+  error_no_query: "Por favor, introduce texto."
+  error_db_not_configured: "Error: Base de datos no configurada."
+  error_no_results: "No se encontraron resultados."
+  translation_button_label: "Traducir al español"
+  translation_not_available: "Traducción no disponible."
+
+# --- TEDESCO (de) ---
+de:
+  app_title: "📚 AI Book Finder"
+  language_label: "Sprache / Language"
+  results_label: "Ergebnisse"
+  search_loading_message: "Suche läuft..."
+
+  # Plot Search (Tab 1)
+  plot_search_tab: "🔎 Suche nach Handlung"
+  plot_search_placeholder: "Beschreiben Sie die Handlung..."
+  plot_search_button: "Suchen"
+  
+  # Title Search (Tab 2)
+  title_search_tab: "📖 Suche nach Titel"
+  title_search_placeholder: "Titel..."
+  title_search_button: "Finden"
+  
+  # Dataset/Table
+  dataset_label: "Ergebnisse:"
+  dataset_header_title: "Titel"
+  dataset_header_author: "Autor"
+  dataset_header_year: "Jahr"
+
+  # Errors and fallback messages
+  error_no_query: "Bitte geben Sie Text ein."
+  error_db_not_configured: "Fehler: Datenbank nicht konfiguriert."
+  error_no_results: "Keine Ergebnisse gefunden."
+  translation_button_label: "Auf Deutsch übersetzen"
+  translation_not_available: "Übersetzung nicht verfügbar."
+
+# --- RUSSO (ru) ---
+ru:
+  app_title: "📚 AI Book Finder"
+  language_label: "Язык / Language"
+  results_label: "Результаты"
+  search_loading_message: "Поиск..."
+
+  # Plot Search (Tab 1)
+  plot_search_tab: "🔎 Поиск по сюжету"
+  plot_search_placeholder: "Опишите сюжет, который вы ищете..."
+  plot_search_button: "Поиск"
+  
+  # Title Search (Tab 2)
+  title_search_tab: "📖 Поиск по названию"
+  title_search_placeholder: "Название..."
+  title_search_button: "Найти"
+  
+  # Dataset/Table
+  dataset_label: "Результаты:"
+  dataset_header_title: "Название"
+  dataset_header_author: "Автор"
+  dataset_header_year: "Год"
+
+  # Errors and fallback messages
+  error_no_query: "Пожалуйста, введите текст."
+  error_db_not_configured: "Ошибка: База данных не настроена."
+  error_no_results: "Результаты не найдены."
+  translation_button_label: "Перевести на русский"
+  translation_not_available: "Перевод недоступен."
